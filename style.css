@@ -1,0 +1,125 @@
+body{
+    background-color:#f4f4f4;
+    font:normal 16px Arial, Helvetica, sans-serif;
+    line-height:1.6em;
+    font-size:16px;
+    margin:0;
+    color:#333
+}
+
+#banner{
+    float:left;
+    width:15%;
+    height:100%;
+    margin-bottom:100px;
+    margin-top:100px;
+}
+
+.block{
+    background-color:#f4f4f4;
+    width:15%;
+    height:100%;
+}
+
+#main{
+    float:left;
+    width:80%;
+    margin-right:2%;
+    margin-left:2%;
+
+}
+
+#main-header{
+    background-color:coral;
+    color:white;
+}
+
+
+.container h1{
+    margin-bottom:1px;
+}
+
+.container h5{
+    margin-bottom:0;
+    margin-top:0;
+}
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+}
+
+#navbar{
+    background-color:#333;
+    color:white;
+}
+
+#navbar ul{
+    padding:0;
+    list-style:none;
+}
+
+#navbar li{
+    display:inline;
+}
+
+#navbar a{
+    color:white;
+    text-decoration:none;
+    font-size:18px;
+    padding-right:100px;
+}
+
+.container-1{
+    margin-top:10px;
+    margin-bottom:10px;
+    overflow:hidden;
+    padding:10px;
+    border:3px dotted #ccc;
+}
+
+#main h4{
+    width:50%;
+    position:center;
+    float:left;
+}
+
+.center{
+    margin-left:15%;
+    margin-right:15%;
+}
+
+img{
+    
+    border:3px solid #333;
+}
+
+#main-footer{
+    background-color:#333;
+    color:white;
+    text-align:center;
+}
+
+.block-small{
+    float:left;
+    width:30%;
+}
+
+.block-large{
+    float:left;
+    width:70%;
+}
+
+.container-large{
+    float:left;
+    width:60%;
+}
+
+.container-small{
+    float:left;
+    width:40%;
+}
+
+#main-footer a{
+    color:white;
+}
